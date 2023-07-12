@@ -1,0 +1,6 @@
+listblock:
+  - name: "a"
+
+listblock:
+  - name: "b"
+    optional: "b optional"
